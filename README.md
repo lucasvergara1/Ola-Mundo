@@ -94,4 +94,20 @@ total=136 total+46
 total=170 total+34
 total=193 total+23
 
-Exemplo de problema 6: 
+Exemplo de problema 6: Escreva um programa que, ao iniciar gera um valor aleatório de 1 a 10 e permite que o usuário chute um número até que o valor aleatório gerado no inicio do programa seja chutado corretamente. O programa deve informar caso o chute tenha sido acima, abaixo ou igual ao valor aleatório gerado no inicio do programa.
+
+Exemplo de solução: 
+
+input numero_aleatorio
+input numero_chutado
+acertou = falso
+while acertou = falso
+input numero_chutado
+if numero_chutado > numero_aleatorio print "Valor chutado acima do valor gerado"
+if numero_chutado <> numero_aleatorio print "Valor chutado abaixo do valor gerado"
+if numero_chutado = numero_aleatorio print "Valor igual, parabéns"
+acertou = verdadeiro
+else
+print "Valor digitado imcompativel, digite um numero aleatório entre 1 e 10"
+
+
