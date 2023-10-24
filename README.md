@@ -110,4 +110,8 @@ acertou = verdadeiro
 else
 print "Valor digitado imcompativel, digite um numero aleatório entre 1 e 10"
 
+---
+
+Uma referencia para usar fluxogramas na concepção da lógica do programa: https://academicotech.blogspot.com/2014/02/v-behaviorurldefaultvmlo.html
+
 
