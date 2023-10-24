@@ -62,9 +62,36 @@ Exemplos:
 7! = 7· 6 · 5 · 4 · 3 · 2 · 1 = 5040
 
 Pesquisa feita, agora realizar a criação do programa
+
 input: numero_input
 if numero_input < 0 print"digite apenas numero inteiro maior que zero"
 fatorial = 1
 loop de 1 a numero_input
 fatorial(variavel criada) numero_input*fatorial
 print resultado
+
+Se o usuario por exemplo inserir o número 5, o programa deve realizar os seguintes calculos até se chegar ao resultado 120, resultado esse que será usado em print resultado
+
+1*1=1
+1*2=2
+2*3=6
+6*4=24
+24*5=120
+
+Exemplo de problema 5: Dados uma coleção de dados "idades"(15,46,75,34,23) imprima na tela a soma destes valores
+
+Exemplo de solução:
+input_idade: 15,46,75,34,23
+total (variavel criada)=0
+soma_idades(variavel criada): total+input_idade
+print resultado
+
+Tabela ilustrativa da lógica
+total =0 
+total=15  total+15
+total=61  total+61
+total=136 total+46
+total=170 total+34
+total=193 total+23
+
+Exemplo de problema 6: 
