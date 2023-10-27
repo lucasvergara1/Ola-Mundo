@@ -114,4 +114,22 @@ print "Valor digitado imcompativel, digite um numero aleatório entre 1 e 10"
 
 Uma referencia para usar fluxogramas na concepção da lógica do programa: https://academicotech.blogspot.com/2014/02/v-behaviorurldefaultvmlo.html
 
+---
 
+Dica de como organizar um bom README no GitHub
+
+Referencia de um bom ReadME
+
+Deve ser focado em munir o Recrutador com as infos gerais sobre o projeto em 60 segundos aproximadamente. 
+
+-O que isso faz?
+Escreva uma frase curta e liste as funcionalidades de trabalho.
+-O que é? 
+Claramente, indique o que esse código deve produzir. É web, desktop, aplicativo móvel ou uma biblioteca?
+-Quais tecnologias são usadas ?
+Liste todas as estruturas e bibliotecas importantes que contribuem para este projeto. É útil para um recrutador que não está necessariamente familiarizado com todos os frameworks do mundo saber se isso é Laravel e Que ou recai e Expressjs.
+-Qual é a ambição do projeto? Você está apenas testando uma tecnologia ou é algo que já existe ou será lançado em algum lugar?
+-Qual o estágio do projeto ? 
+Claramente, indique onde você está com isso. Se está completo ou em andamento?Se for um trabalho em andamento indique o que está feito e o que está pendente.
+-Existem alguns problemas conhecidos ou coisas que não são feitas corretamente ?
+Se sim, liste-os porque os recrutadores serão tolerantes devido a sua previsibilidade do que quando/se encontrar deficiências que foram destacadas do que quando eles próprios descobrirem. 
