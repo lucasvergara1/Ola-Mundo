@@ -133,3 +133,7 @@ Liste todas as estruturas e bibliotecas importantes que contribuem para este pro
 Claramente, indique onde você está com isso. Se está completo ou em andamento?Se for um trabalho em andamento indique o que está feito e o que está pendente.
 -Existem alguns problemas conhecidos ou coisas que não são feitas corretamente ?
 Se sim, liste-os porque os recrutadores serão tolerantes devido a sua previsibilidade do que quando/se encontrar deficiências que foram destacadas do que quando eles próprios descobrirem. 
+---
+Referencia de perguntas entrevista JS - 300 perguntas e respostas
+
+https://dev.to/sakhnyuk/300-react-interview-questions-2ko4#what-is-react
