@@ -137,3 +137,8 @@ Se sim, liste-os porque os recrutadores serão tolerantes devido a sua previsibi
 Referencia de perguntas entrevista JS - 300 perguntas e respostas
 
 https://dev.to/sakhnyuk/300-react-interview-questions-2ko4#what-is-react
+
+---
+Referencia de como criar commits  
+https://www.conventionalcommits.org/pt-br/v1.0.0/
+---
