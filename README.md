@@ -6,6 +6,7 @@ Repositório criado durante uma aula ao vivo!
 Essa linha eu adicionei diretamente no site do github. Que impressionante!
 
 Edição ligada a markdown.
+revisao
  ---
 
 \ Estou na fase de Aprender Lógica. 
